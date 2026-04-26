@@ -1,0 +1,3 @@
+2024-04-21 10:01:23 ERROR payment-service Timeout while calling Kafka broker
+2024-04-21 10:01:25 ERROR checkout-service Failed to process order
+2024-04-21 10:01:30 WARN kafka lag increasing consumer group lag=5000
